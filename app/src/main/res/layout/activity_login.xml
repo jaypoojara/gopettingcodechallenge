@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_login"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:id="@+id/signup_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_vertical"
+        android:gravity="center"
+        android:orientation="vertical">
+
+
+        <Button
+            android:id="@+id/btnGoogleLogin"
+            android:layout_width="fill_parent"
+            android:layout_height="60dp"
+            android:layout_gravity="center_vertical"
+            android:layout_margin="15dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/google_curved_button"
+            android:drawableLeft="@drawable/ic_google_plus_white_36dp"
+            android:padding="16dp"
+            android:text="@string/login_with_google"
+            android:textColor="@android:color/white" />
+
+
+    </LinearLayout>
+</FrameLayout>

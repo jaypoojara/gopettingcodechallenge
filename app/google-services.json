@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "906789890839",
+    "firebase_url": "https://gopettingcodingchallenge.firebaseio.com",
+    "project_id": "gopettingcodingchallenge",
+    "storage_bucket": "gopettingcodingchallenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906789890839:android:1dae8fc59359cee4",
+        "android_client_info": {
+          "package_name": "com.com.gopettingcodingchallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906789890839-hmbjq3j030uvoq37nl27s3b0mh1c37ap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.com.gopettingcodingchallenge",
+            "certificate_hash": "0a8bf0f6d4652921739c6b66d6fa7fd022178c7e"
+          }
+        },
+        {
+          "client_id": "906789890839-ns8fi47v985v3tlv3i2nkji2a4os3sqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrGdrtdfSNJ1JyKuP9OHk13ZfHBXzXJJ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906789890839-ns8fi47v985v3tlv3i2nkji2a4os3sqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906789890839:android:4c062791f0eada13",
+        "android_client_info": {
+          "package_name": "com.gopettingcodingchallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906789890839-i8uh6tcufk3i3b9qu6s8ktp9bfqs7vib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gopettingcodingchallenge",
+            "certificate_hash": "0a8bf0f6d4652921739c6b66d6fa7fd022178c7e"
+          }
+        },
+        {
+          "client_id": "906789890839-ns8fi47v985v3tlv3i2nkji2a4os3sqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrGdrtdfSNJ1JyKuP9OHk13ZfHBXzXJJ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906789890839-ns8fi47v985v3tlv3i2nkji2a4os3sqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
